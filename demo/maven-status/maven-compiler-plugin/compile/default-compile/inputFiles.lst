@@ -1,0 +1,9 @@
+C:\Users\Vasiliy\IdeaProjects\TestExercises\src\main\java\com\example\testexercise\exception\EmptyNameFieldException.java
+C:\Users\Vasiliy\IdeaProjects\TestExercises\src\main\java\com\example\testexercise\TestExercisesApplication.java
+C:\Users\Vasiliy\IdeaProjects\TestExercises\src\main\java\com\example\testexercise\exception\UserNameAlreadyExistException.java
+C:\Users\Vasiliy\IdeaProjects\TestExercises\src\main\java\com\example\testexercise\controller\UserController.java
+C:\Users\Vasiliy\IdeaProjects\TestExercises\src\main\java\com\example\testexercise\dao\UserRepository.java
+C:\Users\Vasiliy\IdeaProjects\TestExercises\src\main\java\com\example\testexercise\exception\UserNotExistException.java
+C:\Users\Vasiliy\IdeaProjects\TestExercises\src\main\java\com\example\testexercise\exception\EmptyPassFieldException.java
+C:\Users\Vasiliy\IdeaProjects\TestExercises\src\main\java\com\example\testexercise\service\UserService.java
+C:\Users\Vasiliy\IdeaProjects\TestExercises\src\main\java\com\example\testexercise\entity\UserEntity.java
