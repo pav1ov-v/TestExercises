@@ -25,6 +25,7 @@ public class UserService {
         this.userRepository = userRepository;
     }
 
+    @Transactional
     public void createUser(UserEntity user)
             throws UserNameAlreadyExistException, EmptyNameFieldException, EmptyPassFieldException {
 
@@ -67,6 +68,7 @@ public class UserService {
         return users;
     }
 
+    @Transactional
     public UserEntity updateUserById(UserEntity newUser, Long id) throws UserNotExistException {
         UserEntity user = getUserById(id);
         if (newUser != null) {

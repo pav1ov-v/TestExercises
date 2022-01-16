@@ -1,0 +1,9 @@
+com\example\testexercise\dao\UserRepository.class
+com\example\testexercise\exception\EmptyNameFieldException.class
+com\example\testexercise\exception\UserNameAlreadyExistException.class
+com\example\testexercise\controller\UserController.class
+com\example\testexercise\entity\UserEntity.class
+com\example\testexercise\exception\EmptyPassFieldException.class
+com\example\testexercise\exception\UserNotExistException.class
+com\example\testexercise\TestExercisesApplication.class
+com\example\testexercise\service\UserService.class
