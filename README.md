@@ -43,6 +43,8 @@ Connected logging.
 
     POST localhost:8080/user
 
+    Raw JSON body:
+
     {
     "name" : "not null or empty",
     "pass" : "not null or empty",
@@ -60,6 +62,8 @@ Connected logging.
 ##### 3.4 To update a user
 
     PUT localhost:8080/user/{id}
+
+    Raw JSON body:
 
     {
     "name" : "not null or empty",
